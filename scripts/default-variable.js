@@ -1,0 +1,1 @@
+export default namaDepan = "Eko"
